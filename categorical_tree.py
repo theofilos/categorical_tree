@@ -1,5 +1,6 @@
 """
-This module contains a categorical decision tree
+This module contains a categorical decision tree.
+Written by Theo Strinopoulos, see below for the rest of the credits
 
 Example
 --------
